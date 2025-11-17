@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Arlington, TX</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a Machine Learning Engineer with a strong focus on building scalable, reliable, and production-ready data systems. My work spans the full ML lifecycle — from exploratory data analysis and feature engineering to distributed model training, deployment, and monitoring — with hands-on experience across Databricks, AWS, Spark, Ray, and modern Python/R ecosystems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m currently developing machine learning pipelines that blend classical modeling, neural networks, and generative AI. Recent projects include anomaly-detection systems on Databricks, distributed inference workflows, ensemble models for stock-movement prediction, and RAG applications leveraging LangChain, vector stores, and retrieval graphs. On the R side, I regularly work with tidyverse, caret, sparklyr, and R Markdown for statistical modeling, forecasting, and data storytelling.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My background bridges data science, software engineering, and cloud architecture. I’ve deployed ML models to both SageMaker and Databricks, built asset-bundle deployment workflows, optimized Spark jobs across clusters, and designed end-to-end pipelines with modular preprocessing, filtering, modeling, merging, and reporting components. I’m also experienced in packaging ML systems, writing clean tests with pytest, and tuning distributed execution using multiprocessing and Ray.
+
+Beyond engineering, I’m passionate about helping others understand data. I enjoy studying the internals of Python, exploring computer architecture at a low level, and creating clear explanations, diagrams, and presentations for technical concepts. I’m also currently pursuing a Master of Science in Data Science, where I work on statistical modeling, machine learning, forecasting, and applied analytics in both Python and R.
+
+Outside of work, I’m a musician, a builder, and a lifelong learner — interested in everything from sheet-music recognition models to woodworking projects, meal-generation apps, and meditation and mindfulness practices.
+
+My goal is simple: build practical, elegant, and well-engineered machine learning systems — and learn something new every day in the process.
