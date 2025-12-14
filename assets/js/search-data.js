@@ -496,6 +496,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-dds-analytics-univariate-analysis",
+          title: 'DDS_Analytics - Univariate Analysis',
+          description: "Frito Lay Univariate Feature Analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/univariate_analysis/";
             },},{
         id: 'social-cv',
         title: 'CV',
