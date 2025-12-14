@@ -451,16 +451,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+          section: "News",},{id: "projects-dds-analytics-knn-modeling",
+          title: 'DDS_Analytics - KNN Modeling',
+          description: "Frito Lay KNN Modeling",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/knn_modeling/";
             },},{id: "projects-dds-analytics-multivariate-analysis",
           title: 'DDS_Analytics - Multivariate Analysis',
           description: "Frito Lay Multivariate Feature Analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/multivariate_analysis/";
+            },},{id: "projects-dds-analytics-naive-bayes-modeling",
+          title: 'DDS_Analytics - Naive Bayes Modeling',
+          description: "Frito Lay Naive Bayes Modeling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nb_modeling/";
             },},{id: "projects-dds-analytics-univariate-analysis",
           title: 'DDS_Analytics - Univariate Analysis',
           description: "Frito Lay Univariate Feature Analysis",
