@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DDS_Analytics - Naive Bayes Modeling
-description: Frito Lay Naive Bayes Modeling
+title: Project 2
+description: Project 2
 img: assets/img/LR.png
 importance: 5
 category: work
