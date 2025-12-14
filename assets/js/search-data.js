@@ -466,6 +466,11 @@ ninja.data = [{
           description: "Frito Lay Naive Bayes Modeling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nb_modeling/";
+            },},{id: "projects-dds-analytics-naive-bayes-modeling",
+          title: 'DDS_Analytics - Naive Bayes Modeling',
+          description: "Frito Lay Naive Bayes Modeling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_2_placeholder/";
             },},{id: "projects-dds-analytics-univariate-analysis",
           title: 'DDS_Analytics - Univariate Analysis',
           description: "Frito Lay Univariate Feature Analysis",
