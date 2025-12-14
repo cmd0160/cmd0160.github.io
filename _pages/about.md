@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:  ML Engineer | Data Scientist | Musician
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ML Engineer II, JPMorgan Chase</p>
     <p>Arlington, TX</p>
 
 
