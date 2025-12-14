@@ -9,11 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Machine Learning Engineer II, JPMorgan Chase</p>
-    <p>Education:</p>
-    <p>2025 - Present: Master of Science in Data Science, SMU</p>
-    <p>2014 - 2016: Master of Percussion Performance, UNL</p>
-    <p>2007 - 2014: Bachelor of Music: k-12 Music Education, UNT</p>
+    <p>ML Engineer II, JPMorgan Chase</p>
     <p>Arlington, TX</p>
 
 
