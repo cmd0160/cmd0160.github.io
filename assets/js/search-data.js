@@ -470,7 +470,7 @@ ninja.data = [{
           title: 'Project 2',
           description: "Project 2",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_2_placeholder/";
+              window.location.href = "/projects/project_2/";
             },},{id: "projects-dds-analytics-univariate-analysis",
           title: 'DDS_Analytics - Univariate Analysis',
           description: "Frito Lay Univariate Feature Analysis",
